@@ -1,0 +1,11 @@
+/* YourComponent.css */
+
+.background {
+  position: relative;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  background: url("../../assets/signInBg.jpeg") center/cover no-repeat; /* Updated line */
+}
